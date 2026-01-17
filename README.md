@@ -12,44 +12,56 @@
 # B15cu1t
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Systems+Explorer;Network+Archaeologist;Concurrency+Alchemist;Security+Curious" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Student+Developer;Python+%26+Networking;Learning+Systems+the+Hard+Way;Security+Fundamentals" alt="Typing SVG" />
 </p>
 
-**I live where code meets the metal.**
+I’m a **student developer** focused on learning how software systems actually work —  
+especially **Python**, **networking**, and **basic security concepts**.
 
-Passionate student developer obsessed with understanding **how computers really talk**, how threads fight for survival, and how security actually holds when someone is trying to break it.
+I’m not an expert. I’m deliberately early in the process.  
+What I *do* care about is understanding things properly instead of just making them “work”.
 
-I don't collect tutorials.  
-I build → break → trace → fix → repeat — until the system whispers its secrets.
+I learn by building small projects, breaking them, debugging the failures,  
+and slowly connecting the dots between code, networks, and system behavior.
 
-### Core Interests
+---
 
-- Low-level networking: sockets, TCP/IP internals, packet crafting  
-- Real concurrency: threading battles, multiprocessing chaos, asyncio elegance  
-- Practical cybersecurity: defensive patterns, vulnerability thinking, secure-by-design philosophy  
-- Systems diagnostics & behavior reverse-engineering
+## Core Interests
 
-### Current Realities
+- Networking fundamentals: sockets, TCP/IP concepts, client–server models  
+- Concurrency basics: threading, multiprocessing, and understanding where things go wrong  
+- Cybersecurity fundamentals: defensive thinking, common vulnerabilities, secure coding habits  
+- Systems behavior: observing how programs behave under load, failure, and misuse  
 
-- Building custom protocol simulators and network diagnostic tools in Python  
-- Experimenting with high-concurrency client-server architectures  
-- Creating small security playgrounds (educational only – learning how things break & how to prevent it)
+---
 
-### Learning Trajectory (2025–2026)
+## Current Focus
 
-- Deep dive into raw sockets & network stack internals  
-- Modern concurrency patterns & performance profiling  
-- Threat modeling, secure coding practices, basic crypto implementations  
-- Writing maintainable, testable, production-grade learning projects
+- Writing Python projects that involve **network communication and threading**
+- Building simple **client–server applications** to understand protocols and data flow
+- Experimenting in small, controlled environments to learn how systems break — and why
 
-### Open for meaningful collaboration
+*(Educational projects only. Learning-focused, not exploit-focused.)*
 
-- Intermediate-level Python networking/security experiments  
-- Tools that teach concepts rather than chase hype  
-- People who also prefer deep understanding over quick wins
+---
 
-> "The code doesn't lie.  
-> It just waits patiently for you to understand what it's really saying."
+## Learning Trajectory (2025–2026)
+
+- Stronger understanding of Python networking and concurrency
+- Deeper dive into TCP/IP fundamentals and how data moves through the stack
+- Introductory security concepts: threat modeling, input validation, basic crypto ideas
+- Writing cleaner, more maintainable code instead of rushing features
+
+---
+
+## Open for Collaboration
+
+- Beginner to intermediate **Python** projects
+- Networking or security-related learning tools
+- People who prefer learning fundamentals over chasing trends
+
+> “Understanding beats speed.  
+> Rushing creates code. Slowing down builds skill.”
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Developer Quote"/>
@@ -57,7 +69,7 @@ I build → break → trace → fix → repeat — until the system whispers its
 
 ---
 
-### GitHub Reality Check
+## GitHub Reality Check
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=B15cu1t&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&line_height=28" alt="Stats"/>
