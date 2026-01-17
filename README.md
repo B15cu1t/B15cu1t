@@ -1,12 +1,50 @@
 # B15cu1t
 
-**Student developer specializing in networking, concurrency, and cybersecurity — turning complex systems into understandable realities.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Systems+Explorer;Network+Archaeologist;Concurrency+Alchemist;Security+Curious" alt="Typing SVG" />
+</p>
 
-I immerse myself in the raw mechanics of computing: where Python orchestrates socket communications, threads compete for dominance, and security layers defend against invisible threats. My methodology? **Construct. Disrupt. Debug. Master.** — transforming failures into profound insights.
+**I live where code meets the metal.**
+
+Passionate student developer obsessed with understanding **how computers really talk**, how threads fight for survival, and how security actually holds when someone is trying to break it.
+
+I don't collect tutorials.  
+I build → break → trace → fix → repeat — until the system whispers its secrets.
+
+### Core Interests
+
+- Low-level networking: sockets, TCP/IP internals, packet crafting  
+- Real concurrency: threading battles, multiprocessing chaos, asyncio elegance  
+- Practical cybersecurity: defensive patterns, vulnerability thinking, secure-by-design philosophy  
+- Systems diagnostics & behavior reverse-engineering
+
+### Current Realities
+
+- Building custom protocol simulators and network diagnostic tools in Python  
+- Experimenting with high-concurrency client-server architectures  
+- Creating small security playgrounds (educational only – learning how things break & how to prevent it)
+
+### Learning Trajectory (2025–2026)
+
+- Deep dive into raw sockets & network stack internals  
+- Modern concurrency patterns & performance profiling  
+- Threat modeling, secure coding practices, basic crypto implementations  
+- Writing maintainable, testable, production-grade learning projects
+
+### Open for meaningful collaboration
+
+- Intermediate-level Python networking/security experiments  
+- Tools that teach concepts rather than chase hype  
+- People who also prefer deep understanding over quick wins
+
+> "The code doesn't lie.  
+> It just waits patiently for you to understand what it's really saying."
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9hM2J0aHlrZ2N4eW9lMGh5c2Z0b2N0MmV4eTM2MzVqNGVqN2Z1YiZjdD1n/26xBwdI5timqQBJVM/giphy.gif" alt="Code Flow Animation" width="60%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Developer Quote"/>
 </p>
+
+---
 
 ### Tech Stack
 
@@ -23,63 +61,27 @@ I immerse myself in the raw mechanics of computing: where Python orchestrates so
 
 ---
 
-### Current Focus & Projects
-- **Networking Mastery**: Crafting custom sockets, dissecting TCP/IP flows, and simulating real-world packet interactions.
-- **Concurrency Excellence**: Engineering multithreaded systems to handle high-load scenarios, exploring asyncio for asynchronous efficiency.
-- **Cybersecurity Depth**: Implementing robust defenses, analyzing vulnerabilities through ethical experiments, and building secure client-server architectures.
-- Hands-on builds: Diagnostic tools, protocol analyzers, and system simulators — all designed for deep learning and practical application.
+### GitHub Reality Check
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKRnSZXeFHVod32/giphy.gif" alt="Network Flow Animation" width="50%" style="border-radius: 8px;"/>
-</p>
-
-### Actively Learning & Evolving
-- Advanced network internals: Raw packet crafting, reconnaissance techniques, and stack optimizations.
-- Cutting-edge security: Threat modeling, encryption protocols, and proactive vulnerability mitigation.
-- Architectural best practices: Modular designs, scalable structures, and performance-tuned codebases.
-
-### Open to Collaboration & Innovation
-- Join forces on intermediate Python ventures in networking or security domains.
-- Co-create educational utilities that prioritize insight over spectacle — let's build tools that teach and inspire.
-
-> Fuelled by relentless curiosity.  
-> When the code resists, I probe deeper — unveiling truths layer by layer.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jWEUesrmMkE/giphy.gif" alt="Hacking Animation" width="50%" style="border-radius: 8px;"/>
-</p>
-
----
-
-### GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B15cu1t&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=B15cu1t&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&line_height=28" alt="Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B15cu1t&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B15cu1t&theme=dracula&hide_border=true&date_format=M+j%5B%2C+Y%5D" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B15cu1t&theme=dracula&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
-### Inspirational Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Developer Quote"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B15cu1t&theme=dracula&hide_border=true&layout=compact&langs_count=8&hide=html,css" alt="Top Languages"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=B15cu1t&icon=5&color=6" alt="Profile Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=B15cu1t&icon=5&color=6" alt="Profile views"/>
 </p>
 
 <p align="center">
-  Unlock more insights → 
-  <a href="https://b15cu1t.github.io/portfolio">b15cu1t.github.io/portfolio</a>
+  <strong>Want to see more?</strong><br>
+  <a href="https://b15cu1t.github.io/portfolio">→ b15cu1t.github.io/portfolio</a>
 </p>
