@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-repo/network-security-banner.gif" alt="Network Security Visualization" width="80%"/>
+  <img src="https://img.shields.io/badge/UPLINK-ACTIVE-brightgreen?style=for-the-badge" alt="Uplink Active"/>
 </p>
 
 # B15cu1t
 
-**Student developer diving deep into networking, concurrency, and cybersecurity fundamentals.**
+**Aspiring cybersecurity specialist and systems developer.**
 
-I thrive at the intersection of **Python**, raw system interactions, and security protocols. Instead of rote learning, I build systems, stress-test them, debug failures, and uncover root causes to truly understand how things work.
+Delving into the core of digital infrastructure — where Python interfaces with networks, concurrency drives performance, and security protocols safeguard data. I approach learning through hands-on experimentation: constructing robust systems, identifying vulnerabilities, and reinforcing defenses.
 
-Core interests:
-- Computer communication protocols (TCP/IP, sockets, packet analysis)
-- Concurrency mechanics (threading, multiprocessing, real-time behavior)
-- Practical security implementations (vulnerability assessment, defensive coding)
+Key pursuits:
+- Network architecture and protocol dissection (TCP/IP, socket programming)
+- Concurrency optimization (threading, asyncio, parallel processing)
+- Cybersecurity practices (ethical hacking, threat mitigation, secure coding)
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -30,52 +30,53 @@ Core interests:
 
 ---
 
-### Currently Building
-- Python-based networking tools for protocol simulation and analysis
-- Multithreaded applications to explore system concurrency limits
-- Educational security experiments (e.g., basic encryption, vulnerability scanning)
+## Current Projects
+- Developing Python tools for network simulation and vulnerability assessment
+- Exploring multithreaded applications to model real-world system behaviors
+- Building client-server prototypes with embedded security features
 
-### Actively Learning
-- Advanced socket programming and network stack internals
-- Cybersecurity essentials: Ethical hacking, threat modeling, secure coding practices
-- Optimizing project structures for scalability and maintainability
+## Ongoing Learning
+- Deep dives into socket APIs and network stack layers
+- Fundamentals of cybersecurity: Reconnaissance, exploitation prevention, encryption
+- Best practices for modular, secure software design
 
-### Open to Collaboration
-- Intermediate Python projects in networking or security
-- Tools for learning and experimentation (focus on substance over hype)
+## Collaboration Opportunities
+- Python-based networking or security initiatives at beginner-intermediate levels
+- Educational tools emphasizing practical learning and system insights
 
-> Driven by curiosity. If something's unclear, I dissect it layer by layer.
-
----
-
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B15cu1t&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B15cu1t&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B15cu1t&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
+> Probe. Analyze. Secure.  
+> Unravel complexities layer by layer.
 
 ---
 
-### Achievements
+## GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=B15cu1t&theme=radical&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=B15cu1t&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B15cu1t&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B15cu1t&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-### Dev Insight
+## Achievements
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=B15cu1t&theme=dracula&no-frame=true&margin-w=15&column=5" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## Insight
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote"/>
 </p>
 
 ---
@@ -85,5 +86,5 @@ Core interests:
 </p>
 
 <p align="center">
-  Check out my full portfolio: <a href="https://b15cu1t.github.io/portfolio">b15cu1t.github.io/portfolio</a>
+  Explore my portfolio: <a href="https://b15cu1t.github.io/portfolio">b15cu1t.github.io/portfolio</a>
 </p>
