@@ -1,21 +1,15 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/UPLINK-ACTIVE-brightgreen?style=for-the-badge" alt="Uplink Active"/>
+  <img src="https://img.shields.io/badge/UPLINK%20-%20ACTIVE-brightgreen?style=for-the-badge" alt="Uplink Active"/>
 </p>
 
 # B15cu1t
 
-**Aspiring cybersecurity specialist and systems developer.**
+**Student developer passionate about networking, concurrency, systems programming, and cybersecurity fundamentals.**
 
-Delving into the core of digital infrastructure — where Python interfaces with networks, concurrency drives performance, and security protocols safeguard data. I approach learning through hands-on experimentation: constructing robust systems, identifying vulnerabilities, and reinforcing defenses.
+I explore how computers truly communicate, how threads battle for resources, and how real security mechanisms hold up under pressure.  
+My approach: **build it → break it → debug it → understand why it failed**.
 
-Key pursuits:
-- Network architecture and protocol dissection (TCP/IP, socket programming)
-- Concurrency optimization (threading, asyncio, parallel processing)
-- Cybersecurity practices (ethical hacking, threat mitigation, secure coding)
-
----
-
-## Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -24,67 +18,57 @@ Key pursuits:
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
 </p>
 
 ---
 
-## Current Projects
-- Developing Python tools for network simulation and vulnerability assessment
-- Exploring multithreaded applications to model real-world system behaviors
-- Building client-server prototypes with embedded security features
+### Current Focus & Projects
+- Network programming: sockets, TCP/IP protocol implementations, packet analysis
+- Concurrency: threading, multiprocessing, asyncio patterns
+- Security basics: defensive coding, vulnerability exploration (educational only)
+- Building custom client-server tools and system diagnostics utilities in Python
 
-## Ongoing Learning
-- Deep dives into socket APIs and network stack layers
-- Fundamentals of cybersecurity: Reconnaissance, exploitation prevention, encryption
-- Best practices for modular, secure software design
+### Actively Learning
+- Deep network stack internals & raw socket manipulation
+- Practical cybersecurity concepts: reconnaissance, secure design, common pitfalls
+- Clean, scalable project architecture for larger systems
 
-## Collaboration Opportunities
-- Python-based networking or security initiatives at beginner-intermediate levels
-- Educational tools emphasizing practical learning and system insights
+### Open to Collaboration
+- Beginner → intermediate Python projects in networking or security
+- Educational tools focused on understanding systems (no hype, no rush)
 
-> Probe. Analyze. Secure.  
-> Unravel complexities layer by layer.
+> Curiosity drives progress.  
+> If I don't understand it yet — I keep digging until I do.
 
 ---
 
-## GitHub Overview
+### GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B15cu1t&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://gh-stats-gen.vercel.app/api?username=B15cu1t&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B15cu1t&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B15cu1t&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+  <img src="https://gh-stats-gen.vercel.app/api/top-langs/?username=B15cu1t&theme=dracula&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## Achievements
+### Daily Dev Insight
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=B15cu1t&theme=dracula&no-frame=true&margin-w=15&column=5" alt="GitHub Trophies"/>
-</p>
-
----
-
-## Insight
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Developer Quote"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=B15cu1t&icon=0&color=12" alt="Profile Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=B15cu1t&icon=5&color=6" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  Explore my portfolio: <a href="https://b15cu1t.github.io/portfolio">b15cu1t.github.io/portfolio</a>
+  Dive deeper into my work → 
+  <a href="https://b15cu1t.github.io/portfolio">b15cu1t.github.io/portfolio</a>
 </p>
