@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/UPLINK%20-%20ACTIVE-brightgreen?style=for-the-badge" alt="Uplink Active"/>
-</p>
-
 # B15cu1t
 
-**Student developer passionate about networking, concurrency, systems programming, and cybersecurity fundamentals.**
+**Student developer specializing in networking, concurrency, and cybersecurity — turning complex systems into understandable realities.**
 
-I explore how computers truly communicate, how threads battle for resources, and how real security mechanisms hold up under pressure.  
-My approach: **build it → break it → debug it → understand why it failed**.
+I immerse myself in the raw mechanics of computing: where Python orchestrates socket communications, threads compete for dominance, and security layers defend against invisible threats. My methodology? **Construct. Disrupt. Debug. Master.** — transforming failures into profound insights.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9hM2J0aHlrZ2N4eW9lMGh5c2Z0b2N0MmV4eTM2MzVqNGVqN2Z1YiZjdD1n/26xBwdI5timqQBJVM/giphy.gif" alt="Code Flow Animation" width="60%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+</p>
 
 ### Tech Stack
 
@@ -25,38 +24,50 @@ My approach: **build it → break it → debug it → understand why it failed**
 ---
 
 ### Current Focus & Projects
-- Network programming: sockets, TCP/IP protocol implementations, packet analysis
-- Concurrency: threading, multiprocessing, asyncio patterns
-- Security basics: defensive coding, vulnerability exploration (educational only)
-- Building custom client-server tools and system diagnostics utilities in Python
-
-### Actively Learning
-- Deep network stack internals & raw socket manipulation
-- Practical cybersecurity concepts: reconnaissance, secure design, common pitfalls
-- Clean, scalable project architecture for larger systems
-
-### Open to Collaboration
-- Beginner → intermediate Python projects in networking or security
-- Educational tools focused on understanding systems (no hype, no rush)
-
-> Curiosity drives progress.  
-> If I don't understand it yet — I keep digging until I do.
-
----
-
-### GitHub Overview
+- **Networking Mastery**: Crafting custom sockets, dissecting TCP/IP flows, and simulating real-world packet interactions.
+- **Concurrency Excellence**: Engineering multithreaded systems to handle high-load scenarios, exploring asyncio for asynchronous efficiency.
+- **Cybersecurity Depth**: Implementing robust defenses, analyzing vulnerabilities through ethical experiments, and building secure client-server architectures.
+- Hands-on builds: Diagnostic tools, protocol analyzers, and system simulators — all designed for deep learning and practical application.
 
 <p align="center">
-  <img src="https://gh-stats-gen.vercel.app/api?username=B15cu1t&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://media.giphy.com/media/3o7TKRnSZXeFHVod32/giphy.gif" alt="Network Flow Animation" width="50%" style="border-radius: 8px;"/>
 </p>
 
+### Actively Learning & Evolving
+- Advanced network internals: Raw packet crafting, reconnaissance techniques, and stack optimizations.
+- Cutting-edge security: Threat modeling, encryption protocols, and proactive vulnerability mitigation.
+- Architectural best practices: Modular designs, scalable structures, and performance-tuned codebases.
+
+### Open to Collaboration & Innovation
+- Join forces on intermediate Python ventures in networking or security domains.
+- Co-create educational utilities that prioritize insight over spectacle — let's build tools that teach and inspire.
+
+> Fuelled by relentless curiosity.  
+> When the code resists, I probe deeper — unveiling truths layer by layer.
+
 <p align="center">
-  <img src="https://gh-stats-gen.vercel.app/api/top-langs/?username=B15cu1t&theme=dracula&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://media.giphy.com/media/l0MYt5jWEUesrmMkE/giphy.gif" alt="Hacking Animation" width="50%" style="border-radius: 8px;"/>
 </p>
 
 ---
 
-### Daily Dev Insight
+### GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=B15cu1t&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B15cu1t&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B15cu1t&theme=dracula&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
+
+### Inspirational Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Developer Quote"/>
@@ -69,6 +80,6 @@ My approach: **build it → break it → debug it → understand why it failed**
 </p>
 
 <p align="center">
-  Dive deeper into my work → 
+  Unlock more insights → 
   <a href="https://b15cu1t.github.io/portfolio">b15cu1t.github.io/portfolio</a>
 </p>
