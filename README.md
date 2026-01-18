@@ -1,11 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=120&section=header&text=B15CU1T&fontSize=42&fontColor=0d1117&fontAlignY=35&animation=twinkling"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=%24+whoami;student+%E2%94%82+developer+%E2%94%82+systems+thinker;%24+cat+%2Fetc%2Fmotd;building+systems+from+the+ground+up;%24+echo+%24PHILOSOPHY;understanding+beats+speed" alt="typing"/>
-
 <br/><br/>
-
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9d)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff9d)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff9d)
