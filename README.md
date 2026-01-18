@@ -1,14 +1,15 @@
 <div align="center">
 
-```text
-██████╗ ██╗███████╗ ██████╗██╗   ██╗██╗████████╗
-██╔══██╗██║██╔════╝██╔════╝██║   ██║██║╚══██╔══╝
-██████╔╝██║███████╗██║     ██║   ██║██║   ██║   
-██╔══██╗██║╚════██║██║     ██║   ██║██║   ██║   
-██████╔╝██║███████║╚██████╗╚██████╔╝██║   ██║   
-╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝   ╚═╝   
-                                                
-```
+<div align="center">
+<pre>
+<span style="color:#4b5563">██████╗ ██╗███████╗ ██████╗██╗ ██╗██╗████████╗</span>
+<span style="color:#6b7280">██╔══██╗██║██╔════╝██╔════╝██║ ██║██║╚══██╔══╝</span>
+<span style="color:#9ca3af">██████╔╝██║███████╗██║     ██║ ██║██║   ██║</span>
+<span style="color:#a7f3d0">██╔══██╗██║╚════██║██║     ██║ ██║██║   ██║</span>
+<span style="color:#00ff9d">██████╔╝██║███████╗╚██████╗╚██████╔╝██║   ██║</span>
+<span style="color:#00ff9d">╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝   ╚═╝</span>
+</pre>
+</div>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FF9D&center=true&vCenter=true&width=460&lines=whoami;student+%7C+developer+%7C+systems+thinker;cat+/etc/motd;understanding+beats+speed"
