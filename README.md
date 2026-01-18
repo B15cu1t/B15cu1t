@@ -93,13 +93,6 @@ learn() {
 
 ## `$ neofetch --stats`
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B15cu1t&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9&icon_color=00ff9d" alt="top langs"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=B15cu1t&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d&sideLabels=00ff9d&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak"/>
 
 <br/><br/>
 
@@ -123,11 +116,7 @@ $ echo $PHILOSOPHY
   <img src="https://img.shields.io/badge/%24_ls_~%2Frepos-00ff9d?style=for-the-badge&labelColor=0d1117" alt="repos"/>
 </a>
 
-<br/><br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=B15cu1t&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=100&section=footer"/>
 
