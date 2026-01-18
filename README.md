@@ -14,16 +14,13 @@
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FF9D&center=true&vCenter=true&width=460&lines=whoami;student+%7C+developer+%7C+systems+thinker;cat+/etc/motd;understanding+beats+speed"
   alt="typing"
 />
-
 <br/>
-
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff9d)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00ff9d)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00ff9d)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=00ff9d)
 ![Raspberry Pi](https://img.shields.io/badge/RPi-0d1117?style=flat-square&logo=raspberrypi&logoColor=00ff9d)
 ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00ff9d)
-
 </div>
 
 ---
