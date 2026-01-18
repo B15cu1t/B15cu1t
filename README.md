@@ -1,18 +1,13 @@
 <div align="center">
 
 ```text
-┌──(b15cu1t㉿system)-[~]
-└─$
-     ██████╗ ██╗███████╗ ██████╗██╗   ██╗██╗████████╗
-     ██╔══██╗██║██╔════╝██╔════╝██║   ██║██║╚══██╔══╝
-     ██████╔╝██║███████╗██║     ██║   ██║██║   ██║   
-     ██╔══██╗██║╚════██║██║     ██║   ██║██║   ██║   
-     ██████╔╝██║███████║╚██████╗╚██████╔╝██║   ██║   
-     ╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝   ╚═╝   
-                                                     
+██████╗ ██╗███████╗ ██████╗██╗ ██╗██╗████████╗
+██╔══██╗██║██╔════╝██╔════╝██║ ██║██║╚══██╔══╝
+██████╔╝██║███████╗██║     ██║ ██║██║   ██║
+██╔══██╗██║╚════██║██║     ██║ ██║██║   ██║
+██████╔╝██║███████╗╚██████╗╚██████╔╝██║   ██║
+╚═════╝ ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝   ╚═╝
 ```
-
-</div>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FF9D&center=true&vCenter=true&width=460&lines=whoami;student+%7C+developer+%7C+systems+thinker;cat+/etc/motd;understanding+beats+speed"
@@ -44,16 +39,6 @@ declare -A PROFILE=(
   [status]="always_learning"
 )
 
-learn() {
-  write_code
-  break_it
-  debug_failures
-  understand_why
-}
-
-while true; do
-  learn
-done
 ```
 
 ---
