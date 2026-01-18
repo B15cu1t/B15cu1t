@@ -1,14 +1,18 @@
 <div align="center">
 
+```text
 ██████╗ ██╗███████╗ ██████╗██╗ ██╗ ██╗████████╗
 ██╔══██╗███║██╔════╝██╔════╝██║ ██║███║╚══██╔══╝
 ██████╔╝╚██║███████╗██║     ██║ ██║╚██║   ██║
 ██╔══██╗ ██║╚════██║██║     ██║ ██║ ██║   ██║
 ██████╔╝ ██║███████║╚██████╗╚██████╔╝ ██║   ██║
 ╚═════╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝  ╚═╝   ╚═╝
+```
 
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=$+whoami;student+|+developer+|+systems+thinker;$+cat+focus.txt;python+|+networking+|+security;$+echo+\"understanding+beats+speed\"" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=00FF9D&center=true&vCenter=true&width=450&lines=whoami;student+%7C+developer+%7C+systems+thinker;focus%3A+python+networking+security;understanding+beats+speed"
+  alt="typing"
+/>
 
 <br/>
 
@@ -23,13 +27,11 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B15cu1t&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9&langs_count=6" width="280"/>
-
-### > ./about.sh
+### `> ./about.sh`
 
 ```bash
 #!/bin/bash
-# Building systems from the ground up
+# building systems from the ground up
 
 FOCUS=(
   networking_fundamentals
@@ -41,19 +43,24 @@ FOCUS=(
 APPROACH=depth_over_speed
 ```
 
-I learn by writing small programs, breaking them, debugging the failures, and connecting how code, networks, and systems interact.
+I learn by writing small programs, breaking them, debugging failures, and connecting how code, networks, and systems interact.
 
-<br clear="right"/>
+---
 
-> cat current_work.log
+### `> cat current_work.log`
 
-[ACTIVE] Python networking and threading projects
-[ACTIVE] Client-server protocol implementations
-[STUDY]  TCP/IP fundamentals, socket programming
-[STUDY]  Defensive security patterns
+```
+[ACTIVE] python networking and threading projects
+[ACTIVE] client-server protocol implementations
+[STUDY]  tcp/ip fundamentals, socket programming
+[STUDY]  defensive security patterns
+```
 
-> tree focus/
+---
 
+### `> tree focus/`
+
+```
 focus/
 ├── networking/
 │   ├── sockets
@@ -70,16 +77,9 @@ focus/
 └── systems/
     ├── behavior_under_load
     └── error_handling
+```
 
-<div align="center">
-> echo $PHILOSOPHY
-
-Solid fundamentals scale better than shortcuts.
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=B15cu1t&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=00ff9d" width="95%"/>
-
-Profile Views
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=60&section=footer"/>
-
-</div>
+```
+$ echo $PHILOSOPHY
+solid fundamentals scale better than shortcuts
+```
