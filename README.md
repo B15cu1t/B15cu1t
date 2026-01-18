@@ -1,63 +1,85 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-</p>
+<div align="center">
 
-# B15cu1t
+██████╗ ██╗███████╗ ██████╗██╗ ██╗ ██╗████████╗
+██╔══██╗███║██╔════╝██╔════╝██║ ██║███║╚══██╔══╝
+██████╔╝╚██║███████╗██║     ██║ ██║╚██║   ██║
+██╔══██╗ ██║╚════██║██║     ██║ ██║ ██║   ██║
+██████╔╝ ██║███████║╚██████╗╚██████╔╝ ██║   ██║
+╚═════╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝  ╚═╝   ╚═╝
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Student+Developer;Python+and+Networking;Learning+Systems+from+the+Ground+Up" />
-</p>
 
-I’m a student developer focused on understanding **how software systems actually work**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=$+whoami;student+|+developer+|+systems+thinker;$+cat+focus.txt;python+|+networking+|+security;$+echo+\"understanding+beats+speed\"" alt="Typing SVG" />
 
-My main interests are **Python**, **networking fundamentals**, and **introductory security concepts**.  
-I’m early in the process and intentionally building from the basics instead of skipping ahead.
+<br/>
 
-I learn by writing small programs, breaking them, debugging the failures, and slowly connecting how code, networks, and systems interact.
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff9d)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00ff9d)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00ff9d)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=00ff9d)
+![Raspberry Pi](https://img.shields.io/badge/RPi-0d1117?style=flat-square&logo=raspberrypi&logoColor=00ff9d)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00ff9d)
 
----
-
-## Focus Areas
-
-- Networking fundamentals: sockets, TCP/IP concepts, client–server communication  
-- Concurrency basics: threading, multiprocessing, and where things fail  
-- Security fundamentals: defensive thinking, common mistakes, secure coding habits  
-- System behavior: observing programs under load, errors, and misuse  
+</div>
 
 ---
 
-## Current Work
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B15cu1t&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9&langs_count=6" width="280"/>
 
-- Python projects involving networking and threading  
-- Simple client–server applications to understand protocols and data flow  
-- Small, controlled experiments to learn how systems break and how to prevent it  
+### > ./about.sh
 
-Educational and learning-focused only.
+```bash
+#!/bin/bash
+# Building systems from the ground up
 
----
+FOCUS=(
+  networking_fundamentals
+  concurrency_patterns
+  security_basics
+  system_behavior
+)
 
-## Direction
+APPROACH=depth_over_speed
+```
 
-- Strengthening fundamentals before moving to advanced topics  
-- Writing cleaner, more maintainable code  
-- Understanding systems deeply rather than quickly
+I learn by writing small programs, breaking them, debugging the failures, and connecting how code, networks, and systems interact.
 
-> Understanding beats speed.  
-> Solid fundamentals scale better than shortcuts.
+<br clear="right"/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
-</p>
+> cat current_work.log
 
----
+[ACTIVE] Python networking and threading projects
+[ACTIVE] Client-server protocol implementations
+[STUDY]  TCP/IP fundamentals, socket programming
+[STUDY]  Defensive security patterns
 
-<p align="center">
-  <a href="https://github.com/B15cu1t?tab=repositories">View repositories</a>
-</p>
+> tree focus/
+
+focus/
+├── networking/
+│   ├── sockets
+│   ├── tcp_ip
+│   └── client_server
+├── concurrency/
+│   ├── threading
+│   ├── multiprocessing
+│   └── failure_modes
+├── security/
+│   ├── defensive_thinking
+│   ├── secure_coding
+│   └── common_mistakes
+└── systems/
+    ├── behavior_under_load
+    └── error_handling
+
+<div align="center">
+> echo $PHILOSOPHY
+
+Solid fundamentals scale better than shortcuts.
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=B15cu1t&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=00ff9d&line=00ff9d&point=ffffff&area=true&area_color=00ff9d" width="95%"/>
+
+Profile Views
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=60&section=footer"/>
+
+</div>
