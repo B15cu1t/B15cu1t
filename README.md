@@ -39,8 +39,7 @@ declare -A PROFILE=(
 + [ACTIVE] biscuit music player — Flask + yt-dlp on Android/Termux
 + [BUILD]  IP geolocation tool — C# + Google Maps integration
 # ─────────────────────────────────────────────────────────────────
-! [STUDY]  ethical hacking — Codestars / Atil Samancioglu (~50%)
-! [STUDY]  python pentesting tools — Vulnsec Academy
+! [STUDY]  ethical hacking & pentesting
 ! [CTF]    SANS CRDF CE3 Kosovo — 458pts / top 17%
 ```
 
@@ -93,7 +92,9 @@ declare -A PROFILE=(
 <a href="https://github.com/B15cu1t?tab=repositories">
   <img src="https://img.shields.io/badge/%24_ls_~%2Frepos-00ff9d?style=for-the-badge&labelColor=0d1117" alt="repos"/>
 </a>
-![Profile Views](https://komarev.com/ghpvc/?username=B15cu1t&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=B15cu1t&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS"/>
 
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=100&section=footer"/>
 </div>
